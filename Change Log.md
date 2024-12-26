@@ -4,6 +4,7 @@ ftb-library
 
 ## Add
 Inventory Tweaks - ReFoxed   
+KubeJS Create   
 
 ***
 
