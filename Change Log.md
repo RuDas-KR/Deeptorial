@@ -1,16 +1,21 @@
-v 1.1
+# v 1.2
+## Update
+ftb-library   
 
-- Update
+## Add
+Inventory Tweaks - ReFoxed   
 
-AE2
+***
 
-createamazingdungeons
+# V 1.1
+## Update
+Applied Energistics 2   
+Create Amazing Structures
 
-- Remove
-  
-Improved Mobs
+## Remove
+Improved Mobs   
 
+***
 
-V 1.0
-
+# V 1.0
 alpha-close mod setup
