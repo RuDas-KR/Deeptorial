@@ -1,3 +1,20 @@
+# v 1.3
+## Update
+
+Forge Mod Loader Update - 47.3.22   
+
+Sophisticated Core   
+Sophisticated Storage   
+Sophisticated Backpacks   
+ParCool! ~ Minecraft Parkour ~   
+GeckoLib   
+Create Kart   
+Create Amazing Structures   
+
+** Quest config Adding **
+
+***
+
 # v 1.2
 ## Update
 ftb-library   
