@@ -1,3 +1,20 @@
+# v 2.0
+## Update
+
+Minecraft Version Update
+(1.20.1 -> 1.21.1)
+
+Forge Mod Loader Change
+Forge => NeoForge
+
+Some Mods replace
+
+** Quest Chapter 1 semi-complete **
+
+
+***
+
+
 # v 1.3
 ## Update
 
